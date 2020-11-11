@@ -6,7 +6,7 @@ Designs for 3D printing parts and building a microcontroller to motorize a 1D Me
 * Shinsei USR30-E3N Ultrasonic Motor
 * Shinsei D6060E Motor Driver
 * WEMOS D1 Mini ESP8266 Microcontroller (or other Arduino-compatiple microcontroller)
-* Electronics Component
+* Electronics Components
   * Breadboard or PCB board
   * DB-9 connector/breakout board
   * Logic level shifter board (if using 3.3V microcontroller with 5V LCD)
