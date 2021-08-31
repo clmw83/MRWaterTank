@@ -11,7 +11,7 @@ This project develops an MR-conditional motorized attachment and controller for 
 * Manual Water Tank (e.g. MedTec/CNMC WP-3040 or similar water tank that will be safe to use in an MR environment)
 * Shinsei USR30-E3N Ultrasonic Motor w/ 500 PPR Encoder
 * Shinsei D6060E Motor Driver
-* WEMOS D1 Mini ESP8266 Microcontroller (or other Arduino-compatiple microcontroller)
+* WEMOS D1 Mini ESP8266 Microcontroller (or other Arduino-compatible microcontroller)
 * Electronics Components
   * Breadboard or PCB board
   * DB-9 connector/breakout board
